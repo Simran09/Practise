@@ -1,0 +1,5 @@
+myWords=["Python","Cow","Bumblebee"]
+user_word = raw_input("Enter a word")
+for word in myWords:
+    if user_word == word:
+        print: "it is there"

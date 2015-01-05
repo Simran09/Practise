@@ -1,0 +1,5 @@
+MyTinyDictionary = {'Sarah' : '20 Hatfeild Rd, CV6 GH7'}
+print MyTinyDictionary['Sarah']
+
+MyTinyDictionary = {'Adam'} : '7 Cherry Ave, CV3 2TE'}
+print MyTinyDictionary

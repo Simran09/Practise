@@ -1,0 +1,10 @@
+print range(20,100,1)
+
+print range (50,75)
+    
+print range(0,100,2)
+
+for x in range(10):
+    print x
+
+
